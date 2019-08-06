@@ -24,8 +24,9 @@ header{
   position: fixed;
   top: 0;
   left: 0;
+  display: grid;
   margin: 0 auto 100% auto;
-  background-image: url('../assets/stars.jpg');
+  background: url('../assets/stars.jpg') no-repeat center/cover;
   background-position: center;
   width: 100%;
   background-size: cover;
